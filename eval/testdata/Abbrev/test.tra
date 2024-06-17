@@ -1,0 +1,1 @@
+(assign left: (_) @n) { print(@n) }
